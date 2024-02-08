@@ -4,6 +4,7 @@
 KillerKat123/ruby is built on the following main stack:
 
 - [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
+- [PonyDebugger](https://github.com/square/PonyDebugger) – Mobile Runtime Inspector
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [Redis](http://redis.io/) – In-Memory Databases
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -32,6 +33,7 @@ Full tech stack [here](/techstack.md)
 KillerKat123/ruby is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
+- <img width='25' height='25' src='https://img.stackshare.io/service/729/Logo.png' alt='PonyDebugger'/> [PonyDebugger](https://github.com/square/PonyDebugger) – Mobile Runtime Inspector
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -60,7 +62,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [KillerKat123/ruby](https://github.com/KillerKat123/ruby)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|75<br/>Tools used|12/05/23 <br/>Report generated|
+|78<br/>Tools used|02/08/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -264,9 +266,25 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (3)
+## Other (5)
 <table><tr>
   <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
+  <br>
+  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/729/Logo.png' alt='PonyDebugger'>
+  <br>
+  <sub><a href="https://github.com/square/PonyDebugger">PonyDebugger</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/6189/15b2346a2366ab9cae0fe1b7ca576927_normal.png' alt='SnapSVG'>
   <br>
   <sub><a href="http://snapsvg.io/">SnapSVG</a></sub>
@@ -294,9 +312,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (51)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (52)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (51)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (52)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -344,6 +362,7 @@ Full tech stack [here](/techstack.md)
 |[raw-loader](https://www.npmjs.com/raw-loader)|v4.0.1|12/13/22|DotEsparto |MIT|N/A|
 |[slugify](https://www.npmjs.com/slugify)|v1.4.5|12/13/22|DotEsparto |MIT|N/A|
 |[style-loader](https://www.npmjs.com/style-loader)|v1.2.0|12/13/22|DotEsparto |MIT|N/A|
+|[svgo](https://www.npmjs.com/svgo)|v1.3.2|12/13/22|DotEsparto |MIT|N/A|
 |[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v4.2.1|04/24/23|DotEsparto1 |MIT|N/A|
 |[url-loader](https://www.npmjs.com/url-loader)|v4.1.0|12/13/22|DotEsparto |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v8.3.0|12/13/22|DotEsparto |MIT|N/A|
