@@ -21,6 +21,8 @@ KillerKat123/ruby is built on the following main stack:
 - [Apollo](https://www.apollographql.com/) – Platform as a Service
 - [Stream](https://getstream.io/) – Activity Feeds as a Service
 - [Uploadcare](https://uploadcare.com) – File Uploads
+- [PonyDebugger](https://github.com/square/PonyDebugger) – Mobile Runtime Inspector
+- [Showdown](https://github.com/coreyti/showdown) – Javascript Utilities & Libraries
 - [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
@@ -49,6 +51,8 @@ KillerKat123/ruby is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/5508/CyUH653y.png' alt='Apollo'/> [Apollo](https://www.apollographql.com/) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/2213/mBSAJI_h_400x400.jpg' alt='Stream'/> [Stream](https://getstream.io/) – Activity Feeds as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/1479/circle-transparent-2.png' alt='Uploadcare'/> [Uploadcare](https://uploadcare.com) – File Uploads
+- <img width='25' height='25' src='https://img.stackshare.io/service/729/Logo.png' alt='PonyDebugger'/> [PonyDebugger](https://github.com/square/PonyDebugger) – Mobile Runtime Inspector
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Showdown'/> [Showdown](https://github.com/coreyti/showdown) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
@@ -60,7 +64,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [KillerKat123/ruby](https://github.com/KillerKat123/ruby)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|76<br/>Tools used|03/15/24 <br/>Report generated|
+|79<br/>Tools used|03/22/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -190,7 +194,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://prettier.io/">Prettier</a></sub>
   <br>
-  <sub>v1.16.4</sub>
+  <sub></sub>
 </td>
 
 <td align='center'>
@@ -264,9 +268,33 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (3)
+## Other (6)
 <table><tr>
   <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
+  <br>
+  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/729/Logo.png' alt='PonyDebugger'>
+  <br>
+  <sub><a href="https://github.com/square/PonyDebugger">PonyDebugger</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='Showdown'>
+  <br>
+  <sub><a href="https://github.com/coreyti/showdown">Showdown</a></sub>
+  <br>
+  <sub>v1.9.0</sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/6189/15b2346a2366ab9cae0fe1b7ca576927_normal.png' alt='SnapSVG'>
   <br>
   <sub><a href="http://snapsvg.io/">SnapSVG</a></sub>
